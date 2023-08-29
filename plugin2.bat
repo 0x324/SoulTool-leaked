@@ -1,0 +1,2 @@
+python spammer.py
+pause

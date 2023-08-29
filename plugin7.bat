@@ -1,0 +1,2 @@
+python friend.py
+pause

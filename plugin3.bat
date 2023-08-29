@@ -1,0 +1,2 @@
+python hypesquad.py 
+pause

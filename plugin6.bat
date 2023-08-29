@@ -1,0 +1,2 @@
+python checker.py 
+pause

@@ -1,0 +1,2 @@
+python nuker.py 
+pause
